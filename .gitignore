@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.venv/
+fastapi/
+
+# Environment & local files
+.env
+*.sqlite3
+
+# Poetry / PyInstaller / builds
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
